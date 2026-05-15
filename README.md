@@ -10,6 +10,8 @@ The C language codes are divided into three main categories:
 
 - **Data Structures:** This section contains implementations of data structures such as lists, stacks, and queues, created during the Data Structures course.
 
+- **Algorithm Analysis:** This section contains code focused on algorithm analysis, including Dynamic Algorithms, Greedy Algorithms, Backtracking, and Brute Force, studied in the Algorithm Analysis course.
+
 - **Introduction to Graph Theory:** This section contains graph representations of different sizes.
 
 ## Java Language
