@@ -19,3 +19,11 @@ The Java language codes were created based on exercises conducted in Object-Orie
 ## SQL Language
 
 The SQL language databases are created based on classroom exercises, using MySQL Workbench.
+
+## Mobile Programming
+
+This section contains project developed during the Mobile Programming classes using visual programming with MIT App Inventor.
+
+* **Task Manager App:** A task management application focused on local data persistence. It was developed utilizing a custom MIT App Inventor extension to integrate an **SQLite database**, allowing users to create, read, update, and delete tasks effectively. 
+    * <img width="320" height="320" alt="Zenitask_logo" src="https://github.com/user-attachments/assets/b93a1a29-63a0-4754-bb96-d0667c3614bd" />
+    * [Download the .apk or .aia to test](https://github.com/Jonhyyplay/College_Code/releases)
