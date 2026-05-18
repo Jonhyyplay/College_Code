@@ -20,7 +20,7 @@ The Java language codes were created based on exercises conducted in Object-Orie
 
 ## SQL Language
 
-The SQL language databases are created based on classroom exercises, using MySQL Workbench.
+The SQL language databases are created based on exercises conducted in Database classes, using MySQL via Command Line Interface (CLI).
 
 ## Mobile Programming
 
